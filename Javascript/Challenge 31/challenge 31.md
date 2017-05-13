@@ -29,4 +29,4 @@ $(_0xc360[12])[_0xc360[11]](function() {
 
 8. The if condition ```if (_0xf382x1 == _0xc360[3] + _0xf382x2)``` is true when the value of the password is the third index of "_0xc360" and the content of _0xf382x2 which is the second index of "_0xc360".
 
-9. With the hexadecimal value we convert it into ASCII symbol and there is the password. ***0211alk3***
+9. With the hexadecimal value we convert it into ASCII symbol and there is the password. ***02l1alk3***
